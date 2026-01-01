@@ -1,4 +1,4 @@
-package com.xcodeleon.tacocloud.web;
+package com.xcodeleon.tacocloud.data;
 
 import com.xcodeleon.tacocloud.Ingredient;
 
