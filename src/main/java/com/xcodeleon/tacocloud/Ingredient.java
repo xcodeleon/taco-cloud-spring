@@ -1,4 +1,4 @@
-package com.xcodeleon.tacocloud.domain;
+package com.xcodeleon.tacocloud;
 
 
 import lombok.Data;
